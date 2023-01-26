@@ -58,8 +58,9 @@
      -> 리뷰 추가
      -> 리뷰 수정
      -> 리뷰 삭제
-
-    (GET/POST/DELETE), 팔로워 & 팔로잉 (GET/POST/DELETE)
+    팔로워 & 팔로잉 (GET/POST/DELETE)
+     -> 사용자 follow 추가 API 구현
+     -> 판매자 follow 삭제 API 구현
 
 <br>
 
