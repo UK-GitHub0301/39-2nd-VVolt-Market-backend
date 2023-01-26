@@ -18,18 +18,8 @@
 
 ## 👩‍👩‍👧‍👦 VVolt Martket 팀
 
-- `BE` 김한솔, 박상욱, 송철진 / `FE` 강지민, 심동섭, 정효원, 조은혜
-
-## 📌 VVolt Martket Features
-
-- 🟢 `한솔 BE` - DB구축, 카카오API 로그인(POST), 주문목록(GET), 제품 리스트 (GET), 제품 detailed (GET)
-- 🟢 `상욱 BE` - DB구축, 결제 정보 (POST), 토스페이 API, 후기 (GET/POST/PATCH/DELETE), 찜 (GET/POST/DELETE), 팔로워 & 팔로잉 (GET/POST/DELETE)
-- 🟢 `철진 BE` - DB구축, 상점 정보 (GET/POST/PUT), AWS S3 이미지 등록 (POST/PUT), 찜 (GET/POST/DELETE), 팔로워 & 팔로잉 (GET/POST/DELETE)
-
-- 🔵 `지민 FE` - 소셜로그인 페이지, 상품등록 페이지
-- 🔵 `동섭 FE` - 상품리스트 페이지, 상점페이지, footer
-- 🔵 `효원 FE` - 회원가입 페이지, 결제 페이지
-- 🔵 `은혜 FE` - nav, side바, 상품 디테이 페이지
+### - `BE(Backend Engineer)` : 김한솔, 박상욱, 송철진<br />
+### - `FE(Front Engineer)` : 강지민, 심동섭, 정효원, 조은혜
 
 
 ## 🛠 VVolt Martket Tools
@@ -54,6 +44,33 @@
 
 <br>
 
+## 📌 VVolt Martket Features
+
+
+- 🟢 `상욱 BE` - 
+    웹서비스를 구축을 위한 DB모델링, 
+    외부 API를 이용한 결제 진행 (토스페이먼츠), 
+    상품에 리뷰에 대한 전체 API 구현
+     -> 리뷰 추가
+     -> 리뷰 수정
+     -> 리뷰 삭제
+    판매자에 대한 찜(Liek) API 구현
+     -> 리뷰 추가
+     -> 리뷰 수정
+     -> 리뷰 삭제
+
+    (GET/POST/DELETE), 팔로워 & 팔로잉 (GET/POST/DELETE)
+
+<br>
+
+## 📌 추가 구현 사항(예정)
+
+- 외부 로그인 방식 추가(네이버로그인 및 기타 로그인)
+- typescript 기반 전체 Code Refcatoring
+- 외부 결제 방식 추가(카카오페이 및 네이버 페이)
+<br>
+
+
 ---
 
 ### Reference
@@ -63,3 +80,5 @@
 - 이 프로젝트에서 사용하고 있는 사진 대부분은 위코드에서 구매한 것이므로 해당 프로젝트 외부인이 사용할 수 없습니다.
 
 ---
+
+
