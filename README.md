@@ -55,9 +55,9 @@
      -> 리뷰 수정<br>
      -> 리뷰 삭제<br>
     판매자에 대한 찜(Like) API 구현<br>
-     -> 리뷰 추가<br>
-     -> 리뷰 수정<br>
-     -> 리뷰 삭제<br>
+     -> Like 추가<br>
+     -> Like 수정<br>
+     -> Like 삭제<br>
     팔로워 & 팔로잉 (GET/POST/DELETE)<br>
      -> 사용자 follow 추가 API 구현<br>
      -> 판매자 follow 삭제 API 구현<br>
